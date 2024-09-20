@@ -1,3 +1,3 @@
 [submodule "LibreOffice-Build-Memo"]
 	path = LibreOffice-Build-Memo
-	url = git@gitlab.com:takahiro-itou-libreoffice/LibreOffice-Build-Memo.git
+	url = ../LibreOffice-Build-Memo.git
