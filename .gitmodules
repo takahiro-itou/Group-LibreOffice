@@ -1,3 +1,6 @@
 [submodule "LibreOffice-Build-Memo"]
 	path = LibreOffice-Build-Memo
 	url = ../LibreOffice-Build-Memo.git
+[submodule "Build-Hacked-LibreOffice"]
+	path = Build-Hacked-LibreOffice
+	url = git@gitlab.com:takahiro-itou-libreoffice/Build-Hacked-LibreOffice.git
