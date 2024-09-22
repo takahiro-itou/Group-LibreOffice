@@ -9,4 +9,4 @@
 	url = ../LibreOffice-Hack.git
 [submodule "LibreOffice-MyPatches"]
 	path = LibreOffice-MyPatches
-	url = git@gitlab.com:takahiro-itou-libreoffice/LibreOffice-MyPatches.git
+	url = ../LibreOffice-MyPatches.git
